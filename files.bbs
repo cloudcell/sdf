@@ -1,0 +1,10 @@
+DI           data in / distributed RAM
+DO           data out / distributed RAM - local
+mant production management
+scripts actor scripts
+tmp an important temp folder
+utils code borrowed from others
+OPS          operations (by worker)
+DOCS         project documentation
+LOGS         critical logs
+JI           jobs in

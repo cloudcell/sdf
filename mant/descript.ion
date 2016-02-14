@@ -1,0 +1,4 @@
+ba_inprg_mw manager-writable
+ab_avail_proposals_ww worker-writable
+aa_avail manager-writable
+ba_inprg_enggmnt__ww confirmation (status) of the work in progress
