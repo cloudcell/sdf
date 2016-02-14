@@ -1,5 +1,5 @@
-DI           data in / distributed RAM
-DO           data out / distributed RAM - local
+DI           data in
+DO           data out
 mant production management
 scripts actor scripts
 tmp an important temp folder
