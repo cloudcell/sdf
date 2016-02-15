@@ -1,4 +1,4 @@
-sdf: shell script based distributed processing
+sdf*: shell script based distributed processing
 ==============================================
 
 This set of scripts runs any number of "scrip jobs" on any number of computers
@@ -11,5 +11,5 @@ free to ask, I'll try to help as soon as I find time.
 Comments inside the code and jEdit with proper code folding
 plugins should be enough to figure everything out.
 
-_* Why 'sdf' ? - because it's faster to type and it wasn't yet
-taken by some *nix utility (at least on my system)._
+_* Why it is called 'sdf': this short name is easy to type and because
+it stands for 'scripted distributed (processing) framework'._
